@@ -9,7 +9,7 @@ namespace MSDefrag
     {
         public DefragmentationSettings()
         {
-            Path = @"E:\*";
+            Path = @"D:\*";
         }
 
         public String Path;
